@@ -26,7 +26,3 @@ This is a simple digital library management system using Object-Oriented Program
 - تعدد الأشكال (Polymorphism)
 - الواجهات (Interfaces)
 
-## كيفية التشغيل
-
-1. تأكد من تثبيت Java JDK على جهازك
-2. استنسخ المستودع:
