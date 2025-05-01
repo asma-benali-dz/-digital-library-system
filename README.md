@@ -9,7 +9,9 @@ This is a simple digital library management system using Object-Oriented Program
 
 # نظام إدارة مكتبة رقمية مبسط# نظام إدارة مكتبة رقمية - Java
 
-
+![Java](https://img.shields.io/badge/Java-17%2B-blue)
+![Git](https://img.shields.io/badge/Git-2.35%2B-orange)
+![OOP](https://img.shields.io/badge/OOP-Concepts-green)
 ![GitHub](https://img.shields.io/github/license/asma-benali-dz/digital-library-system)
 
 مشروع متكامل لإدارة المكتبات الرقمية مع تطبيق مفاهيم البرمجة الكائنية (OOP) بشكل متقدم.
@@ -69,3 +71,34 @@ src/
 │   │   │   ├── tests/
 docs/
 README.md
+
+متطلبات التشغيل ⚙️
+Java JDK 17+ (تدعم ميزات الـRecords والـPattern Matching)
+
+Git 2.35+ (لإدارة الإصدارات المتقدمة)
+
+MySQL 8.0+ (لتخزين البيانات - اختياري)
+
+
+خطوات التشغيل ▶️  
+# 1. استنساخ المستودع
+git clone https://github.com/yourusername/digital-library.git
+
+# 2. التجميع باستخدام Maven
+mvn clean install
+
+# 3. تشغيل الواجهة النصية
+java -jar target/library-system-1.0.0.jar
+
+# 4. (اختياري) تشغيل الواجهة الرسومية
+java -jar target/library-system-1.0.0.jar --gui 
+
+الترخيص 📜
+هذا المشروع مرخص تحت MIT License - يُسمح بالتعديل وإعادة الاستخدام لأي غرض.
+
+
+
+
+
+
+
