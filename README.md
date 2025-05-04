@@ -9,10 +9,6 @@ This is a simple digital library management system using Object-Oriented Program
 
 # نظام إدارة مكتبة رقمية مبسط# نظام إدارة مكتبة رقمية - Java
 
-![Java](https://img.shields.io/badge/Java-17%2B-blue)
-![Git](https://img.shields.io/badge/Git-2.35%2B-orange)
-![OOP](https://img.shields.io/badge/OOP-Concepts-green)
-![GitHub](https://img.shields.io/github/license/asma-benali-dz/digital-library-system)
 
 مشروع متكامل لإدارة المكتبات الرقمية مع تطبيق مفاهيم البرمجة الكائنية (OOP) بشكل متقدم.
 
